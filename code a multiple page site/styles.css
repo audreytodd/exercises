@@ -1,0 +1,30 @@
+body {
+    padding-top: 200px;
+    padding-bottom: 100px;
+    background-color: rgba(129, 0, 0, 0.851);
+    color: rgb(154, 208, 255);
+    font-family: monospace;
+
+    width: 50%;
+    margin: auto;
+}
+
+a {
+    color: rgba(219, 222, 51, 0.786);
+}
+
+a:hover{
+    background-color: darkorange;
+    color: rgb(0, 72, 255);
+
+}
+
+.images{
+    text-align: center;
+
+}
+
+.back{
+    text-align: center;
+
+}

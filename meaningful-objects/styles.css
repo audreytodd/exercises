@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Anthony;
+    src: url(fonts/Anthony.woff);
+}
+
+body{
+    background-color: olivedrab;
+    color: rgb(248, 140, 194);
+}
+
+a {
+    color: pink;
+}
+
+a:visited{
+    color: rgb(248, 140, 194);
+}
+
+.troll{
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+
+.skull{
+    position: absolute;
+    top: 150px;
+    left: 1000px;
+}
+
+.sketchbook{
+    position: absolute;
+    top: 175px;
+    left: 225px;
+}
+
+.photo{
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+}
+
+.cdplayer{
+    position: absolute;
+    top: 600px;
+    left: 600px;
+}
+
+.description{
+    font-family: Anthony;
+    font-size: large;
+    position: static;
+    padding-top: 200px;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+}

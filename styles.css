@@ -1,0 +1,21 @@
+body{
+    font-size: 32px;
+    font-family: "Source Code Pro", monospace;
+    color: rgb(229, 210, 174);
+    background-color: rgb(171, 103, 71);
+}
+.container{
+    padding-top: 150px;
+    width: 40%;
+    margin: auto;
+}
+a{
+    color: lightskyblue;
+}
+a:hover{
+    color: rgb(229, 210, 174);
+    background-color: rgba(101, 183, 183, 0.835);
+}
+li{
+    list-style: none;
+}
